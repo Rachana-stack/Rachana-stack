@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rachana Dey</h1>
-<h3 align="center">This repository server as a versatile hub for projects spanning various programming languages and technologies, including Java, C++, Python, React.js, React Native, SQL,HTML,CSS and JavaScript. Whether you're a beginner looking to explore different languages or an experienced developer seeking inspiration and collaboration, this repository offers a diverse collection of code snippets, projects, and resources to enhance your programming journey.</h3>
+<h3 align="left">This repository server as a versatile hub for projects spanning various programming languages and technologies, including Java, C++, Python, React.js, React Native, SQL,HTML,CSS and JavaScript. Whether you're a beginner looking to explore different languages or an experienced developer seeking inspiration and collaboration, this repository offers a diverse collection of code snippets, projects, and resources to enhance your programming journey.</h3>
 
 <p align="left"> <a href="https://twitter.com/rachana_dey6" target="blank"><img src="https://img.shields.io/twitter/follow/rachana_dey6?logo=twitter&style=for-the-badge" alt="rachana_dey6" /></a> </p>
 
